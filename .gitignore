@@ -1,0 +1,31 @@
+# WordPress core files
+/wp-admin/
+/wp-includes/
+wp-config.php
+wp-config-sample.php
+wp-load.php
+wp-blog-header.php
+wp-cron.php
+wp-links-opml.php
+wp-mail.php
+wp-settings.php
+wp-trackback.php
+xmlrpc.php
+index.php
+license.txt
+readme.html
+
+# Uploads and cache
+/wp-content/uploads/
+/wp-content/cache/
+/wp-content/upgrade/
+
+# Database backups
+*.sql
+
+# Log files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
